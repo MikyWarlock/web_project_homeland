@@ -1,19 +1,18 @@
 .page {
-  min-width: 320px;
-  max-width: 1280px;
-  background-color: #2A2C2F;
+  background-color: #2a2c2f;
   font-family: "Inter", serif;
   font-size: 16px;
   line-height: 1.5;
-  padding: 0 148px;
+  padding: 0;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   color: #fff;
+  overflow: hidden;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .page {
     padding: 0;
   }
-}
+} */

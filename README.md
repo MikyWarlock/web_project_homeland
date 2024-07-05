@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto tem como intuito a prática da responsividade de um site e adaptação com layout feitos no Figma.
+Este projeto tem como intuito a prática da responsividade e layout adaptativo com Grid Layout.
 
 ## Link para o Github Pages
 

@@ -1,5 +1,5 @@
 .header {
-  margin: 34px auto 90px;
+  margin: 34px 148px 90px;
   text-align: center;
 }
 
@@ -19,7 +19,7 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 720px) {
   .header {
     margin: 20px auto 50px;
   }
