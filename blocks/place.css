@@ -41,7 +41,8 @@
   max-width: 355px;
   width: 100%;
   height: 48px;
-  background: linear-gradient(90deg, rgb(2, 120, 254), rgb(0, 58, 123));
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
+
   color: #fff;
   font-size: 18px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
@@ -52,8 +53,8 @@
 .place__button:hover {
   background: linear-gradient(
     90deg,
-    rgba(2, 120, 254, 0.25),
-    rgba(0, 58, 123, 0.25)
+    rgba(2, 120, 254, 0.25) 0%,
+    rgba(0, 58, 123, 0.25) 99.98%
   );
   cursor: pointer;
 }
