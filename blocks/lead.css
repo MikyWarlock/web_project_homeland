@@ -20,7 +20,7 @@
 .lead__main-image {
   width: 100%;
   object-fit: contain;
-  box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
 
 @media screen and (max-width: 1024px) {
